@@ -1,9 +1,11 @@
 body {
+    text-align: center;
     background-color: cyan;
     font-size: 16pt;
 }
 
-h1 {background-color: darkorange;
+h1 {
+    background-color: darkorange;
     color:darkslategray;
     text-align: center;
 }
