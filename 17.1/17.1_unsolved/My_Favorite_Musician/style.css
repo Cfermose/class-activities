@@ -1,0 +1,14 @@
+body {
+    background-color: cyan;
+    font-size: 16pt;
+}
+
+h1 {background-color: darkorange;
+    color:darkslategray;
+    text-align: center;
+}
+
+
+ol {
+    text-align:center;
+}
