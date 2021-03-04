@@ -15,9 +15,14 @@ nav {
 }
 
 .sidebar {
-    width:29%
+    width:29%;
+    height: 500px;
+    background-color: pink;
+    float: left;
 }
 
 .maincontent {
-    width:70%
+    width:70%;
+    float:left;
+    padding: 40px;
 }
