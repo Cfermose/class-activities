@@ -19,11 +19,26 @@
   width: 150px;
   text-align: center;
   height: 50px;
+  transition:0.3s;
+  
   /* Add the css property transition here! */
 
 }
 /* active state */
+
+
 .hoverMe:hover {
-  /* Add your hover state css here. */
+  
+
+  background-color: rgb(194, 114, 114);
+  transform: scale(2,4);
+  text-decoration: underline;
+  transform: rotate(2deg);
+  text-transform: uppercase;
+  border-radius: 50px;
+  transition: all 2s ease-out;
+  
+
+
 
 }
