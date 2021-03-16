@@ -31,3 +31,7 @@ $(document).on("click",".task", function(){
 
 
 });
+
+$(".removeAll").on("click", function() {
+    $(".task").remove();
+})
