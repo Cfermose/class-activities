@@ -10,3 +10,16 @@ footer {
 .card {
 
 }
+
+h2 {
+  text-align: center;
+  padding: 75px 10px;
+}
+
+.signUp {
+  margin: 0 auto;
+  background-color: #F2F2F2;
+  border-radius: 7px;
+  padding: 25px;
+
+}
