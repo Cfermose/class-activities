@@ -4,6 +4,21 @@
     background-repeat: no-repeat;
     height: 75vh;
     background-size: cover;
+  
 
 }
+
+#adventure h2 {
+    color: black;
+    font-size: 58px;
+    text-align: center;
+}
+
+#adventure h2 span {
+    color: #FF9900;
+    font-size: 37px;
+    display: block;
+
+}
+
 
